@@ -1,1 +1,2 @@
-# WebDevLabs-SVNIT.github.io
+# inout-web
+website for inout
